@@ -26,3 +26,14 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.paper {
+  padding: 50px;
+  margin: auto;
+  margin-top: 10px;
+  width: 841px;
+  height: 1189px;
+  border: black solid 1px;
+  border-radius: 10px;
+}
